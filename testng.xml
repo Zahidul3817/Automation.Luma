@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "/Users/Zahid/Documents/TestNG/testng-1.0.dtd" >
+  
+<suite name="Suite1" verbose="1" >
+  <test name="Nopackage" >
+    <classes>
+       <class name="luma.ny.runner.myRunner" />
+    </classes>
+  </test>
+
+</suite>

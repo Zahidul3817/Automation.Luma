@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.178 s <<< FAILURE! - in TestSuite
+luma.ny.runner.myRunner.runScenario["Valid able loging the application.", "Optional[Validate login functionalties]"](1)  Time elapsed: 6.892 s  <<< FAILURE!
+org.openqa.selenium.NoSuchSessionException: 
+Session ID is null. Using WebDriver after calling quit()?
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Tahiduls-MBP', ip: 'fe80:0:0:0:c06:d8ab:22f2:2120%en0', os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '14.0', java.version: '11.0.19'
+Driver info: driver.version: RemoteWebDriver
+
